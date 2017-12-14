@@ -1,0 +1,11 @@
+.paginate {
+
+    width: 30%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+ul {
+    list-style: none !important;
+
+}
